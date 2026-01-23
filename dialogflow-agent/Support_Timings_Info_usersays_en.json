@@ -1,0 +1,54 @@
+[
+  {
+    "id": "d7b63578-5667-4421-9b3d-f2ceb9567b62",
+    "data": [
+      {
+        "text": "what is customer care timing",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a473bc7e-3a20-47cb-83d1-686a71c56039",
+    "data": [
+      {
+        "text": "when is support open",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ce761a2b-3498-4e45-84fe-4418bc82d264",
+    "data": [
+      {
+        "text": "what are your working hours",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e00ae0f5-a400-4e9d-8b36-5b432e28731b",
+    "data": [
+      {
+        "text": "support availability",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

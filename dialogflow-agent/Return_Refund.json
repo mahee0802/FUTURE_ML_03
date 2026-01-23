@@ -1,0 +1,35 @@
+{
+  "id": "b8f630e8-bbfd-4e31-a15c-ec4b0a1611b0",
+  "name": "Return_Refund",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "I understand! I can help you with returns or exchanges.\n\nHere’s how it works:\n• Request must be raised within 15 days of delivery  \n• Item should be unused and sealed  \n• Pickup is arranged automatically  \n\n🔗 Submit your request here:\nhttps://my-store.com/help/returns\n\nIf the issue is urgent, type **support** to talk to our team."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

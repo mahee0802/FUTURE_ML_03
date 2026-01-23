@@ -1,0 +1,80 @@
+[
+  {
+    "id": "42d4b61f-8044-40a9-91eb-5fc8f4b75016",
+    "data": [
+      {
+        "text": "item not needed",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "900b348e-2e5b-418b-b17c-cd8df099dbeb",
+    "data": [
+      {
+        "text": "i want to exchange product",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4f0a4e57-1597-4ab8-a386-1cf3a545eb2a",
+    "data": [
+      {
+        "text": "Cancel my order",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "befa62a9-a293-43d3-8e35-0e4b9df2bf5d",
+    "data": [
+      {
+        "text": "How do I get a refund?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c04e5658-08d9-4a30-b461-03c21ddde0d9",
+    "data": [
+      {
+        "text": "Refund status",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1d6fdf61-0289-49c1-bcb0-1ae6fefe57dd",
+    "data": [
+      {
+        "text": "I want to return my order",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

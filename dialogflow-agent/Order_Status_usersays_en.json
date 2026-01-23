@@ -1,0 +1,119 @@
+[
+  {
+    "id": "8083b0b4-a7e2-4ced-bf47-10189a8794dc",
+    "data": [
+      {
+        "text": "delivery update",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "98e03904-c627-438e-b13c-0d2090422324",
+    "data": [
+      {
+        "text": "track my delivery",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3e86fe8c-da59-4533-a1b4-2e13879ee295",
+    "data": [
+      {
+        "text": "check delivery status",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "062daca9-8439-4f94-a350-36b5b812f39e",
+    "data": [
+      {
+        "text": "provide details about my order",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9ed6b9da-a812-450e-b316-5cca179002e6",
+    "data": [
+      {
+        "text": "I want to track my order",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5d7db76d-a6d8-4b6a-9eff-6ad758ed79ac",
+    "data": [
+      {
+        "text": "Has my order been shipped?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9baf1e3b-a94d-451c-988d-6659d509e556",
+    "data": [
+      {
+        "text": "Order status",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5e24da6a-1928-4a2f-9e6a-84d157afb0d3",
+    "data": [
+      {
+        "text": "Track my order",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "646846bb-94e2-4c37-9984-80e5b17db5e6",
+    "data": [
+      {
+        "text": "Where is my order?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

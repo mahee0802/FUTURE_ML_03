@@ -1,0 +1,35 @@
+{
+  "id": "3fa970bb-34bf-4ace-abbc-db02ac9c23ac",
+  "name": "Support_Timings_Info",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "🕘 Our support team is available at the following times:\n\n📞 Phone Support  \nMonday – Saturday  \n10:00 AM – 7:00 PM IST  \n\n💬 Chat Assistance  \nAvailable 24/7  \n\n📧 Email queries are answered within 1 business day.\n\nWhat else can I help you with?"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}
