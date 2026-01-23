@@ -1,0 +1,28 @@
+[
+  {
+    "id": "a072a5e6-3a1f-4677-b0b6-007b215455b5",
+    "data": [
+      {
+        "text": "I want to talk to customer support",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b54bc179-2ce9-42c6-aaee-d88d7116c1e7",
+    "data": [
+      {
+        "text": "connect me to customer support",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

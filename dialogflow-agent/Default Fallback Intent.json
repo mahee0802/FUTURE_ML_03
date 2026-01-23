@@ -1,0 +1,35 @@
+{
+  "id": "210da95a-eb1a-48f3-bb1b-0abcb7b49b85",
+  "name": "Default Fallback Intent",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "input.unknown",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Hmm 🤔 I’m not sure I understood that.\n\nYou can try asking about:\n• Delivery updates\n• Returns or refunds\n• Support timings\n• Connecting with an agent\n\nPlease rephrase your question."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": true,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

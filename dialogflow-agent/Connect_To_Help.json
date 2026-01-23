@@ -1,0 +1,35 @@
+{
+  "id": "b455e6e0-cc20-4410-9ed4-c4830d750740",
+  "name": "Connect_To_Help",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Sure!  I’ll help you connect with our support team.\n\n📞 Call: +91 90000 12345  \n📧 Email: support@helpdeskai.com  \n\nOur team will assist you shortly."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

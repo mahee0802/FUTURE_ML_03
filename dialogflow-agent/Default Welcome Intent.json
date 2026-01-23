@@ -1,0 +1,39 @@
+{
+  "id": "de91a346-47a0-4426-9327-40bec96a8fbe",
+  "name": "Default Welcome Intent",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "input.welcome",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Hello 👋 Welcome to HelpDesk AI!\n\nI’m here to assist you with:\n🔹 Tracking deliveries\n🔹 Return or exchange requests\n🔹 Store timings\n🔹 Speaking to customer care\n\nWhat would you like help with today?"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "WELCOME"
+    }
+  ],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}
